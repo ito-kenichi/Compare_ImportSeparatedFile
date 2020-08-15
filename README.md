@@ -31,6 +31,9 @@
 * Xamarin.Forms：-
 
 ## ファイル分割、別ファイルの読み込み
+参考URL
+https://dev.to/codekagei/react-native-custom-tab-component-reactnative-navigation-1d39
+https://somostechies.com/using-xml-namespaces-to-optimize-your-imports-in-xamarin-forms/
 ### url
 * Flutter：-
 * React Native：-
